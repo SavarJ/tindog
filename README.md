@@ -30,8 +30,8 @@ It allows users to find other dogs & their owners nearby in the swipe left/right
 
 ## Install
 
-    $ git clone https://github.com/SavarJ/weather.git
-    $ cd weather
+    $ git clone https://github.com/SavarJ/tindog.git
+    $ cd tindog
     
 ### Running the project
 
