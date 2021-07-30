@@ -7,6 +7,7 @@ It allows users to find other dogs & their owners nearby in the swipe left/right
 
 - [Deployment](#deployment)
 - [Built With](#built-with)
+- [Install](#install)
 - [Author(s)](#authors)
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
@@ -26,6 +27,15 @@ It allows users to find other dogs & their owners nearby in the swipe left/right
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Install
+
+    $ git clone https://github.com/SavarJ/weather.git
+    $ cd weather
+    
+### Running the project
+
+    $ start index.html
 
 ## Author(s)
 
